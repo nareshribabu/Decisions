@@ -14,6 +14,4 @@ This app will help you make these decision! <br/>
 The user types in all the different options, presses a button and the app will pick an option.
 
 # Demo:
-<a href="https://media.giphy.com/media/RJEN7n2yMTxY43GLeg/giphy.gif"><"https://media.giphy.com/media/RJEN7n2yMTxY43GLeg/giphy.gif" title="decisions"/></a>
-
-
+<a href="https://media.giphy.com/media/RJEN7n2yMTxY43GLeg/giphy.gif"><img src="https://media.giphy.com/media/RJEN7n2yMTxY43GLeg/giphy.gif" title="decisions"/></a>
